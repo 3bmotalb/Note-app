@@ -76,6 +76,7 @@ class _TestState extends State<Test> {
     ref.items.forEach((element) {
       print("-----------------------");
       print(element.name);
+      print('hamed');
     });
   }
 
